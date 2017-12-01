@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trabalho02-2017- 2</string>
+    <string name="activity_mainTitle">Lista de Eventos</string>
+    <string name="activity_editarTitle">Editar Evento</string>
+</resources>
